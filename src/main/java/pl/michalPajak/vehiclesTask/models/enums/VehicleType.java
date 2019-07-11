@@ -1,4 +1,4 @@
-package pl.michalPajak.vehiclesTask.enums;
+package pl.michalPajak.vehiclesTask.models.enums;
 
 public enum VehicleType {
     CAR("CAR", "Car"),
