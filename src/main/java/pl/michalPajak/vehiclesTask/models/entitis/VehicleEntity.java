@@ -20,6 +20,8 @@ public class VehicleEntity {
     private double fullTank;
     @Column(name = "fuel_level")
     private double fuelLevel;
+    @Column(name = "avg_consumption")
+    private double avgConsumption;
 
     public VehicleType getVehicleType() {
         return VehicleType.valueOf(this.vehicleType);

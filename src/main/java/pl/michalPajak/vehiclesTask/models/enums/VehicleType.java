@@ -2,7 +2,7 @@ package pl.michalPajak.vehiclesTask.models.enums;
 
 public enum VehicleType {
     CAR("CAR", "Car"),
-    BUE("BUS", "Bus"),
+    BUS("BUS", "Bus"),
     TRUCK("TRUCK", "Truck");
 
 
